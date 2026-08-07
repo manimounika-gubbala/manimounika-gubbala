@@ -16,18 +16,24 @@ Hyderabad,India
 
 # 💻 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,fastapi,flask,git,github,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,flask,fastapi,git,github,vscode,linux,bash,anaconda&perline=7" />
 </p>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" />
-  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Splunk_logo.svg/512px-Splunk_logo.svg.png" width="70" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="48" />
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/cisco.png"/>
+</p>
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48"/>
+  <img src="https://nmap.org/images/sitelogo.png" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" height="48"/>
 </p>
 
 
