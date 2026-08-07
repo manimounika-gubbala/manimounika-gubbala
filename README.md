@@ -3,7 +3,7 @@
 </p>
 
 
-## Hi, I'm Mani Mounika
+## Hey there, I'm Mani Mounika
 
 # 💫 About Me:
 AI/ML Enthusiast | Cybersecurity student | Backend Developer
