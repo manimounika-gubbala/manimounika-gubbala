@@ -1,7 +1,10 @@
 <p align="center">
   <img src="./github.jpeg" width="100%" />
 </p>
+
+
 ## Hi, I'm Mani Mounika
+
 # 💫 About Me:
 AI/ML Enthusiast | Cybersecurity student | Backend Developer
 
