@@ -19,7 +19,7 @@ Hyderabad,India
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,flask,fastapi,git,github,vscode,linux,bash,anaconda&perline=7" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
@@ -29,13 +29,12 @@ Hyderabad,India
   <img src="https://img.icons8.com/color/48/cisco.png"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48"/>
   <img src="https://nmap.org/images/sitelogo.png" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" height="48"/>
 </p>
-
 
 
 # 📊 GitHub Stats:
