@@ -15,10 +15,7 @@ Hyderabad,India
 
 
 # 💻 Tech Stack:
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,flask,fastapi,git,github,vscode,linux,bash,anaconda&perline=7" />
 </p>
 
