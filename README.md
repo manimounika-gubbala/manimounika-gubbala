@@ -6,10 +6,10 @@
 ## Hey there, I'm Mani Mounika
 
 # 💫 About Me:
-AI/ML Enthusiast | Cybersecurity student | Backend Developer
+AI/ML Enthusiast | Cybersecurity student | Developer
 
 Currently interested in
-• Cybersecurity • Artificial Intelligence • Generative AI • AI Agents  • Backend Engineering 
+• Cybersecurity • Artificial Intelligence • Generative AI • AI Agents  • Machine Learning
 
 Open to internships, research oppurtunities
 
